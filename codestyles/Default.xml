@@ -1,6 +1,9 @@
 <code_scheme name="Default" version="173">
   <option name="JD_DO_NOT_WRAP_ONE_LINE_COMMENTS" value="true" />
   <JavaCodeStyleSettings>
+    <option name="DO_NOT_WRAP_AFTER_SINGLE_ANNOTATION" value="true" />
+    <option name="ANNOTATION_PARAMETER_WRAP" value="1" />
+    <option name="ALIGN_MULTILINE_ANNOTATION_PARAMETERS" value="true" />
     <option name="BLANK_LINES_AROUND_INITIALIZER" value="0" />
     <option name="JD_ADD_BLANK_AFTER_DESCRIPTION" value="false" />
     <option name="JD_DO_NOT_WRAP_ONE_LINE_COMMENTS" value="true" />
@@ -21,6 +24,10 @@
     <option name="KEEP_SIMPLE_LAMBDAS_IN_ONE_LINE" value="true" />
     <option name="KEEP_SIMPLE_CLASSES_IN_ONE_LINE" value="true" />
     <option name="WRAP_COMMENTS" value="true" />
+    <option name="METHOD_ANNOTATION_WRAP" value="0" />
+    <option name="CLASS_ANNOTATION_WRAP" value="0" />
+    <option name="PARAMETER_ANNOTATION_WRAP" value="1" />
+    <option name="VARIABLE_ANNOTATION_WRAP" value="1" />
     <option name="ENUM_CONSTANTS_WRAP" value="1" />
     <option name="WRAP_ON_TYPING" value="0" />
   </codeStyleSettings>
